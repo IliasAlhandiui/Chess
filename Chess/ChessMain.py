@@ -81,7 +81,7 @@ def main():
 
 
 '''
-Resp. for all graphics in current game state
+Resp. for all graphics in current game state 
 '''
 
 

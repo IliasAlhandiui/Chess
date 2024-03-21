@@ -201,7 +201,7 @@ class GameState:
                     break
 
     '''
-    Get all Queen moves at row and col and append to list 
+    Get all Queen moves at row and col and append to list
     '''
 
     def getQueenMoves(self, r, c, moves):
